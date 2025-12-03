@@ -7,4 +7,7 @@ Este proyecto es una agenda en consola que permite:
 - Eliminar contactos  
 - Listar todos los contactos  
 
+## Ejecución
+
+python agenda.py
 
